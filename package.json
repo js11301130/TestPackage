@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.textmeshpro",
+  "name": "com.unity.JSTest",
   "displayName": "JSTest",
   "version": "1.0.0",
   "unity": "2019.4",
@@ -7,9 +7,4 @@
   "keywords": [],
   "category": "",
   "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "",
-    "revision": "42654af0"
-  }
 }
