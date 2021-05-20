@@ -6,5 +6,10 @@
   "description": "≤‚ ‘",
   "keywords": [],
   "category": "",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js11301130/TestPackage.git"
+  }
 }
+ 
