@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.textmeshpro",
+  "displayName": "JSTest",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "≤‚ ‘",
+  "keywords": [],
+  "category": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "",
+    "revision": "42654af0"
+  }
+}
