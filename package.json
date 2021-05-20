@@ -1,9 +1,17 @@
 {
-  "name": "com.unity.JSTest",
-  "displayName": "JSTest",
-  "version": "1.0.1",
+  "name": "com.unity.JS_001",
+  "version": "1.0.0",
+  "displayName": "Package Example",
+  "description": "This is an example package",
   "unity": "2019.4",
-  "description": "����",
-  "keywords": [],
-  "category": ""
+  "unityRelease": "20",
+  "dependencies": {},
+  "keywords": [
+    "keyword1"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
 }
