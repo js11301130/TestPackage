@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.example",
+  "name": "com.findsoft.jinsong.testproject",
   "version": "1.2.3",
   "displayName": "Package Example",
   "description": "This is an example package",
@@ -8,8 +8,8 @@
   "dependencies": {},
   "keywords": [],
   "author": {
-    "name": "Unity",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "name": "jinsong",
+    "email": "unity3d-jinsong@qq.com",
+    "url": "https://github.com/js11301130/"
   }
 }
